@@ -1,6 +1,4 @@
-# interview-zlz
-
-## Test Problems
+# Test Problems
 
 ## 1. 仿造github 搜索页面--[link][github_search]  
   1. 使用react
